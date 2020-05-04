@@ -7,9 +7,11 @@
 </head>
 <body>
    <?php
+
    for ($i=0; $i < 21; $i++) { 
-       echo $i
+       echo $i;
    }
+
    ?>
 </body>
 </html>
