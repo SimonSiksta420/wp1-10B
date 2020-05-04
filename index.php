@@ -9,9 +9,8 @@
    <?php
 
    for ($i=0; $i < 21; $i++) { 
-       echo '<div style="display: block; width:20px; height: 20px; background-color: #454d59;"> </div>';
-       echo '<div style="display: block; width:40px; height: 20px; background-color: #454d59;"> </div>';
-       echo '<div style="display: block; width:60px; height: 20px; background-color: #454d59;"> </div>';
+       echo '<div style="display: block; width:(20*$i)px; height: 20px; background-color: #454d59;"> </div>';
+       
 
 
    }
