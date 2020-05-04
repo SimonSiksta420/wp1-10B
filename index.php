@@ -9,7 +9,7 @@
    <?php
 
    for ($i=20; $i > 0; $i--) { 
-       echo '<div style="display: block; width:(20*$i)px; height: 20px; background-color: #454d59;">' '</div>';
+       echo '<div style="display: block; width:(20*$i)px; height: 20px; background-color: #454d59;"> </div>';
    }
 
    ?>
