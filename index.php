@@ -10,6 +10,7 @@
 
    for ($i=0; $i <= 400; $i=$i+20) { 
        echo '<div style="display: block; width:$ipx; height: 20px; background-color: #454d59;"> </div>';
+       echo "<p>"
    }
 
    ?>
