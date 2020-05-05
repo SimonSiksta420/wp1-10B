@@ -12,7 +12,7 @@
        <div style="display: block; width: <?=$i?>px; height: 20px; background-color: #454d59;"> </div>;
   <?php } ?>
 
-   ?>
+   
 
 </body>
 </html>
